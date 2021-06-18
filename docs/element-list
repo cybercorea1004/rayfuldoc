@@ -11,6 +11,7 @@ kr.co.rayful.common.inf.excel
 kr.co.rayful.common.inf.facilityInfo
 kr.co.rayful.common.inf.fcm
 kr.co.rayful.common.inf.history
+kr.co.rayful.common.inf.ingw
 kr.co.rayful.common.inf.membership
 kr.co.rayful.common.inf.ownershiptransfer
 kr.co.rayful.common.inf.payment
@@ -35,11 +36,3 @@ kr.co.rayful.scheduler.dao
 kr.co.rayful.scheduler.service
 kr.co.rayful.sftp.service
 kr.co.rayful.sftp.vo
-kr.co.rayful.socket.server.config
-kr.co.rayful.socket.server.domain
-kr.co.rayful.socket.server.netty
-kr.co.rayful.socket.server.netty.handler
-kr.co.rayful.websocket.config
-kr.co.rayful.websocket.handler
-kr.co.rayful.websocket.jwt
-kr.co.rayful.websocket.listener
