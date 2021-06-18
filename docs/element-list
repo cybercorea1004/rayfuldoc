@@ -36,3 +36,11 @@ kr.co.rayful.scheduler.dao
 kr.co.rayful.scheduler.service
 kr.co.rayful.sftp.service
 kr.co.rayful.sftp.vo
+kr.co.rayful.socket.server.config
+kr.co.rayful.socket.server.domain
+kr.co.rayful.socket.server.netty
+kr.co.rayful.socket.server.netty.handler
+kr.co.rayful.websocket.config
+kr.co.rayful.websocket.handler
+kr.co.rayful.websocket.jwt
+kr.co.rayful.websocket.listener
