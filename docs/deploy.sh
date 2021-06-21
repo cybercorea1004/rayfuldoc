@@ -3,6 +3,7 @@
 # 현재 프로젝트 명. ex) Motti
 project_name=${PWD##*/}
 echo ${project_name}
+cp -rf ../../gitold/RFRAME/docs/* ./
 # Local Maven Repository 경로
 local_rayful_maven_repo='/Users/sunrise/docgit/rayfuldoc'
 cp -r * ${local_rayful_maven_repo}/docs
