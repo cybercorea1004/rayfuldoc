@@ -6,7 +6,7 @@ echo ${project_name}
 cp -rf ../../gitold/RFRAME/docs/* ./
 # Local Maven Repository 경로
 local_rayful_maven_repo='/Users/sunrise/docgit/rayfuldoc'
-cp -r * ${local_rayful_maven_repo}/docs
+cp -rf * ${local_rayful_maven_repo}/docs
 
 # Local Maven Repository로 이동
 cd ${local_rayful_maven_repo}
